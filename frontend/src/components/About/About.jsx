@@ -32,7 +32,7 @@ const About = () => {
               we can do tomorrow, Providing the best. Lorem ipsum dolor sit
               amet, consectetur adipisicing elit, Aliquid, modi?
             </p>
-            <Link to='/'><button className="btn">Learn</button></Link>
+            <Link to='/'><button className="btn">Learn More</button></Link>
           </div>
         </div>
       </div>
